@@ -1,0 +1,16 @@
+{
+    "Auth": {
+      "region": "ap-south-1",
+      "userPoolId": "ap-south-1_XLgCNqdp4",
+      "userPoolWebClientId": "1v074hru7rd9rak04k8lda9lk3",
+      "mandatorySignIn": true,
+      "oauth": {
+        "domain": "frauddetectionapp.auth.ap-south-1.amazoncognito.com",
+        "scope": ["openid", "email", "profile"],
+        "redirectSignIn": "http://frontendreactapp.s3-website.ap-south-1.amazonaws.com/",
+        "redirectSignOut": "http://frontendreactapp.s3-website.ap-south-1.amazonaws.com/",
+        "responseType": "code"
+      }
+    }
+  }
+  

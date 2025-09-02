@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Frontend build
+fraud detection webpage/front-end/ui/build/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Env files
+.env
+.env.*
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Training artifacts (intermediate)
+fraud detection ml model/catboost_info/tmp/
+
+
