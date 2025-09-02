@@ -1,5 +1,8 @@
 ## Financial Fraud Detection
 
+### About
+Implemented an XGBoost-based fraud detection system to analyze transaction data and accurately predict fraudulent activities in real time. Includes an interactive web interface for fraud alerts and analytics, deployed on AWS EC2 with static assets served from Amazon S3 for scalability and reliability.
+
 End-to-end project for detecting fraudulent financial transactions with a production-ready web interface and API.
 
 ### Overview
